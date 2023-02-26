@@ -1,4 +1,4 @@
-package com.wallet;
+package io.dltech.Wallet;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

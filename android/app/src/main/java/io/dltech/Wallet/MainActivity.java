@@ -1,4 +1,4 @@
-package com.wallet;
+package io.dltech.Wallet;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

@@ -93,9 +93,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.wallet"
+    namespace "io.dltech.Wallet"
     defaultConfig {
-        applicationId "com.wallet"
+        applicationId "io.dltech.Wallet"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
